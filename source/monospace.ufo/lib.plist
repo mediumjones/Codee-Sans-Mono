@@ -90,6 +90,20 @@
 			<key>y</key>
 			<integer>-211</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>cap height overshoot</string>
+			<key>x</key>
+			<integer>272</integer>
+			<key>y</key>
+			<integer>646</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -306,11 +320,11 @@
 				<string>degree</string>
 				<string>paragraph</string>
 				<string>space</string>
+				<string>dblquoteleft</string>
+				<string>dblquoteright</string>
 				<string>onesuperior</string>
 				<string>threesuperior</string>
 				<string>twosuperior</string>
-				<string>dblquoteleft</string>
-				<string>dblquoteright</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -520,11 +534,11 @@
 		<string>degree</string>
 		<string>paragraph</string>
 		<string>space</string>
+		<string>dblquoteleft</string>
+		<string>dblquoteright</string>
 		<string>onesuperior</string>
 		<string>threesuperior</string>
 		<string>twosuperior</string>
-		<string>dblquoteleft</string>
-		<string>dblquoteright</string>
 	</array>
 </dict>
 </plist>
