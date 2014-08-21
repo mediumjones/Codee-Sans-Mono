@@ -12,6 +12,18 @@
 	<integer>-202</integer>
 	<key>familyName</key>
 	<string>Codee Sans</string>
+	<key>note</key>
+	<string>### RoboToDo ###
+
+### TODO:
+Finish asterisk
+###
+
+### TODO:
+Fix charset mapping (paranthesis, braceleft, plus, minus etc. not working when installed).
+###
+
+#####</string>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
