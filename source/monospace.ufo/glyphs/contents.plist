@@ -78,6 +78,8 @@
 	<string>bracketright.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>cent</key>
+	<string>cent.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -132,6 +134,8 @@
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>o</key>
@@ -170,6 +174,8 @@
 	<string>s.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
+	<key>six</key>
+	<string>six.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>

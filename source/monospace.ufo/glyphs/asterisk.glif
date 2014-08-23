@@ -4,27 +4,126 @@
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="152" y="455" type="line"/>
-      <point x="440" y="166" type="line"/>
-      <point x="391" y="117" type="line"/>
-      <point x="102" y="405" type="line"/>
+      <point x="377" y="447" type="line"/>
+      <point x="193" y="320" type="line"/>
+      <point x="216" y="286" type="line"/>
+      <point x="403" y="408" type="line"/>
     </contour>
     <contour>
-      <point x="441" y="406" type="line"/>
-      <point x="152" y="117" type="line"/>
-      <point x="102" y="166" type="line"/>
-      <point x="391" y="455" type="line"/>
+      <point x="351" y="377" type="line"/>
+      <point x="328" y="411" type="line"/>
+      <point x="141" y="289" type="line"/>
+      <point x="167" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="447" type="line"/>
+      <point x="193" y="320" type="line"/>
+      <point x="216" y="286" type="line"/>
+      <point x="403" y="408" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="377" type="line"/>
+      <point x="328" y="411" type="line"/>
+      <point x="141" y="289" type="line"/>
+      <point x="167" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="408" type="line"/>
+      <point x="328" y="287" type="line"/>
+      <point x="351" y="321" type="line"/>
+      <point x="167" y="447" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="408" type="line"/>
+      <point x="328" y="287" type="line"/>
+      <point x="351" y="321" type="line"/>
+      <point x="167" y="447" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="410" type="line"/>
+      <point x="193" y="376" type="line"/>
+      <point x="377" y="250" type="line"/>
+      <point x="403" y="289" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="410" type="line"/>
+      <point x="193" y="376" type="line"/>
+      <point x="377" y="250" type="line"/>
+      <point x="403" y="289" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="490" type="line"/>
+      <point x="252" y="267" type="line"/>
+      <point x="293" y="267" type="line"/>
+      <point x="296" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="430" type="line"/>
+      <point x="251" y="430" type="line"/>
+      <point x="248" y="207" type="line"/>
+      <point x="296" y="207" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="430" type="line"/>
+      <point x="251" y="430" type="line"/>
+      <point x="248" y="207" type="line"/>
+      <point x="296" y="207" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="490" type="line"/>
+      <point x="252" y="267" type="line"/>
+      <point x="293" y="267" type="line"/>
+      <point x="296" y="490" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>272</integer>
+          <key>y</key>
+          <integer>434</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>545</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.0</real>
+        <real>1.0</real>
         <real>0.0</real>
         <real>1.0</real>
       </array>
