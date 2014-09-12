@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>EmilyCarr</string>
+	<key>Signature</key>
+	<data>
+	pj/1EI4pLmiHa9xgenK5BTt6Fg2lG21c8uBSvFLBFWzCzwWh5bgRTRjAWUQ63NPVWykrs6YM3Lkg
+L6NvhrLQdSdkrlbtE/Glba+W2iRzV6BnQlbQ0Y47T05TN0dzkZhf1QACTLYcJ0mqOtp5WSz5BYXS
+0hj1Avbd339dRwnqs3I=
+	</data>
+	<key>expire</key>
+	<string>31536000</string>
+	<key>limited</key>
+	<string>True</string>
+</dict>
+</plist>
