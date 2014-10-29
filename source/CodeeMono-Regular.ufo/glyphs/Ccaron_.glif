@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccaron" format="1">
+  <advance width="600"/>
+  <unicode hex="010C"/>
+  <outline>
+    <contour>
+      <point x="529" y="862" type="line"/>
+      <point x="492" y="904" type="line"/>
+      <point x="366" y="823" type="line"/>
+      <point x="241" y="904" type="line"/>
+      <point x="203" y="862" type="line"/>
+      <point x="339" y="754" type="line"/>
+      <point x="395" y="754" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

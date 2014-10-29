@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="545"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="506" y="640" type="line"/>
+      <point x="415" y="640" type="line"/>
+      <point x="415" y="249" type="line" smooth="yes"/>
+      <point x="415" y="144"/>
+      <point x="386" y="68"/>
+      <point x="271" y="68" type="curve" smooth="yes"/>
+      <point x="156" y="68"/>
+      <point x="127" y="141"/>
+      <point x="127" y="249" type="curve" smooth="yes"/>
+      <point x="127" y="640" type="line"/>
+      <point x="36" y="640" type="line"/>
+      <point x="36" y="249" type="line" smooth="yes"/>
+      <point x="36" y="109"/>
+      <point x="93" y="-6"/>
+      <point x="271" y="-6" type="curve" smooth="yes"/>
+      <point x="449" y="-6"/>
+      <point x="506" y="112"/>
+      <point x="506" y="249" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>U</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>545</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

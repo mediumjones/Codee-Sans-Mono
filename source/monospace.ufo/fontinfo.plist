@@ -15,9 +15,11 @@
 	<key>note</key>
 	<string>### RoboToDo ###
 
-### TODO:
+### DONE:
 Finish asterisk
 ###
+
+
 
 ### TODO:
 Fix charset mapping (paranthesis, braceleft, plus, minus etc. not working when installed).
