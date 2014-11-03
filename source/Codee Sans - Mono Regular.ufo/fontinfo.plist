@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>690</integer>
+	<key>capHeight</key>
+	<integer>640</integer>
+	<key>copyright</key>
+	<string>Cody Jones</string>
+	<key>descender</key>
+	<integer>-202</integer>
+	<key>familyName</key>
+	<string>Codee Mono</string>
+	<key>openTypeNameDesigner</key>
+	<string>Cody Jones</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://mediumjones.com</string>
+	<key>openTypeNameLicense</key>
+	<string>Licensed under the Open Font License, version 1.1 or later</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>0</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>490</integer>
+</dict>
+</plist>
