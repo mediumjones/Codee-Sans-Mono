@@ -1,31 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="545"/>
+  <advance width="550"/>
   <outline>
     <contour>
-      <point x="474" y="490" type="line"/>
-      <point x="386" y="89" type="line"/>
-      <point x="404" y="89" type="line"/>
-      <point x="319" y="323" type="line"/>
-      <point x="241" y="323" type="line"/>
-      <point x="153" y="84" type="line"/>
-      <point x="162" y="84" type="line"/>
-      <point x="73" y="490" type="line"/>
-      <point x="-4" y="490" type="line"/>
-      <point x="111" y="0" type="line"/>
-      <point x="181" y="0" type="line"/>
-      <point x="181" y="0" type="line"/>
-      <point x="273" y="235" type="line"/>
-      <point x="364" y="0" type="line"/>
-      <point x="364" y="0" type="line"/>
-      <point x="434" y="0" type="line"/>
-      <point x="549" y="490" type="line"/>
+      <point x="476" y="490" type="line"/>
+      <point x="388" y="89" type="line"/>
+      <point x="406" y="89" type="line"/>
+      <point x="321" y="323" type="line"/>
+      <point x="243" y="323" type="line"/>
+      <point x="155" y="84" type="line"/>
+      <point x="164" y="84" type="line"/>
+      <point x="75" y="490" type="line"/>
+      <point x="-2" y="490" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="275" y="235" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="551" y="490" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

@@ -1,35 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
-  <advance width="545"/>
+  <advance width="550"/>
   <unicode hex="017D"/>
   <outline>
     <contour>
-      <point x="404" y="794" type="line"/>
-      <point x="312" y="690" type="line"/>
-      <point x="230" y="690" type="line"/>
-      <point x="144" y="794" type="line"/>
-      <point x="231" y="794" type="line"/>
-      <point x="273" y="744" type="line"/>
-      <point x="315" y="794" type="line"/>
+      <point x="406" y="794" type="line"/>
+      <point x="314" y="690" type="line"/>
+      <point x="232" y="690" type="line"/>
+      <point x="146" y="794" type="line"/>
+      <point x="233" y="794" type="line"/>
+      <point x="275" y="744" type="line"/>
+      <point x="317" y="794" type="line"/>
     </contour>
     <contour>
-      <point x="151" y="82" type="line"/>
-      <point x="489" y="558" type="line"/>
-      <point x="489" y="558" type="line"/>
-      <point x="489" y="640" type="line"/>
-      <point x="57" y="640" type="line"/>
-      <point x="57" y="558" type="line"/>
-      <point x="379" y="558" type="line"/>
-      <point x="48" y="82" type="line"/>
-      <point x="48" y="0" type="line"/>
-      <point x="498" y="0" type="line"/>
-      <point x="498" y="82" type="line"/>
+      <point x="153" y="82" type="line"/>
+      <point x="491" y="558" type="line"/>
+      <point x="491" y="558" type="line"/>
+      <point x="491" y="640" type="line"/>
+      <point x="59" y="640" type="line"/>
+      <point x="59" y="558" type="line"/>
+      <point x="381" y="558" type="line"/>
+      <point x="50" y="82" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="82" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Zcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="545"/>
+  <advance width="550"/>
   <outline>
     <contour>
-      <point x="434" y="640" type="line"/>
-      <point x="284" y="132" type="line"/>
-      <point x="113" y="640" type="line"/>
-      <point x="28" y="640" type="line"/>
-      <point x="245" y="0" type="line"/>
-      <point x="333" y="0" type="line"/>
-      <point x="519" y="640" type="line"/>
+      <point x="435" y="640" type="line"/>
+      <point x="285" y="132" type="line"/>
+      <point x="114" y="640" type="line"/>
+      <point x="29" y="640" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="520" y="640" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>V</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

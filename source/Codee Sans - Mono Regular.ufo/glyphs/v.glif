@@ -1,22 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="545"/>
+  <advance width="550"/>
   <outline>
     <contour>
-      <point x="437" y="490" type="line"/>
-      <point x="274" y="90" type="line"/>
-      <point x="283.0" y="90.0" type="line"/>
-      <point x="123.0" y="490.0" type="line"/>
-      <point x="32.0" y="490.0" type="line"/>
-      <point x="229.0" y="0.0" type="line"/>
-      <point x="317.0" y="0.0" type="line"/>
-      <point x="514.0" y="490.0" type="line"/>
+      <point x="439" y="490" type="line"/>
+      <point x="276" y="90" type="line"/>
+      <point x="285" y="90" type="line"/>
+      <point x="125" y="490" type="line"/>
+      <point x="34" y="490" type="line"/>
+      <point x="231" y="0" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="516" y="490" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>v</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

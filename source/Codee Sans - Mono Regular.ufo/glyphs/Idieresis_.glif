@@ -1,59 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="1">
-  <advance width="545"/>
+  <advance width="550"/>
   <unicode hex="00CF"/>
   <outline>
     <contour>
-      <point x="220" y="745" type="curve" smooth="yes"/>
-      <point x="220" y="775"/>
-      <point x="196" y="800"/>
-      <point x="165" y="800" type="curve" smooth="yes"/>
-      <point x="135" y="800"/>
-      <point x="111" y="775"/>
-      <point x="111" y="745" type="curve" smooth="yes"/>
-      <point x="111" y="715"/>
-      <point x="135" y="690"/>
-      <point x="165" y="690" type="curve" smooth="yes"/>
-      <point x="196" y="690"/>
-      <point x="220" y="715"/>
+      <point x="221" y="745" type="curve" smooth="yes"/>
+      <point x="221" y="775"/>
+      <point x="197" y="800"/>
+      <point x="166" y="800" type="curve" smooth="yes"/>
+      <point x="136" y="800"/>
+      <point x="112" y="775"/>
+      <point x="112" y="745" type="curve" smooth="yes"/>
+      <point x="112" y="715"/>
+      <point x="136" y="690"/>
+      <point x="166" y="690" type="curve" smooth="yes"/>
+      <point x="197" y="690"/>
+      <point x="221" y="715"/>
     </contour>
     <contour>
-      <point x="434" y="745" type="curve" smooth="yes"/>
-      <point x="434" y="775"/>
-      <point x="410" y="800"/>
-      <point x="379" y="800" type="curve" smooth="yes"/>
-      <point x="349" y="800"/>
-      <point x="325" y="775"/>
-      <point x="325" y="745" type="curve" smooth="yes"/>
-      <point x="325" y="715"/>
-      <point x="349" y="690"/>
-      <point x="379" y="690" type="curve" smooth="yes"/>
-      <point x="410" y="690"/>
-      <point x="434" y="715"/>
+      <point x="435" y="745" type="curve" smooth="yes"/>
+      <point x="435" y="775"/>
+      <point x="411" y="800"/>
+      <point x="380" y="800" type="curve" smooth="yes"/>
+      <point x="350" y="800"/>
+      <point x="326" y="775"/>
+      <point x="326" y="745" type="curve" smooth="yes"/>
+      <point x="326" y="715"/>
+      <point x="350" y="690"/>
+      <point x="380" y="690" type="curve" smooth="yes"/>
+      <point x="411" y="690"/>
+      <point x="435" y="715"/>
     </contour>
     <contour>
-      <point x="323" y="0" type="line"/>
-      <point x="226" y="0" type="line"/>
-      <point x="226" y="637" type="line"/>
-      <point x="323" y="637" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="227" y="637" type="line"/>
+      <point x="324" y="637" type="line"/>
     </contour>
     <contour>
-      <point x="477" y="569" type="line"/>
-      <point x="71" y="569" type="line"/>
-      <point x="71" y="640" type="line"/>
-      <point x="477" y="640" type="line"/>
+      <point x="478" y="569" type="line"/>
+      <point x="72" y="569" type="line"/>
+      <point x="72" y="640" type="line"/>
+      <point x="478" y="640" type="line"/>
     </contour>
     <contour>
-      <point x="477" y="0" type="line"/>
-      <point x="71" y="0" type="line"/>
-      <point x="71" y="71" type="line"/>
-      <point x="477" y="71" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="72" y="71" type="line"/>
+      <point x="478" y="71" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Idieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="1">
-  <advance width="545"/>
+  <advance width="550"/>
   <unicode hex="00C7"/>
   <outline>
     <contour>
-      <point x="300" y="571" type="curve" smooth="yes"/>
-      <point x="404" y="571"/>
-      <point x="487" y="540"/>
-      <point x="487" y="540" type="curve"/>
-      <point x="487" y="609" type="line"/>
-      <point x="487" y="609"/>
-      <point x="423" y="646"/>
-      <point x="292" y="646" type="curve" smooth="yes"/>
-      <point x="102" y="646"/>
-      <point x="37" y="449"/>
-      <point x="37" y="319" type="curve" smooth="yes"/>
-      <point x="37" y="189"/>
-      <point x="102" y="-6"/>
-      <point x="292" y="-6" type="curve" smooth="yes"/>
-      <point x="423" y="-6"/>
-      <point x="487" y="31"/>
-      <point x="487" y="31" type="curve"/>
-      <point x="487" y="114" type="line"/>
-      <point x="487" y="114"/>
-      <point x="414" y="72"/>
-      <point x="306" y="72" type="curve" smooth="yes"/>
-      <point x="198" y="72"/>
-      <point x="139" y="198"/>
-      <point x="139" y="319" type="curve" smooth="yes"/>
-      <point x="139" y="443"/>
-      <point x="183" y="571"/>
+      <point x="313" y="571" type="curve" smooth="yes"/>
+      <point x="417" y="571"/>
+      <point x="500" y="540"/>
+      <point x="500" y="540" type="curve"/>
+      <point x="500" y="609" type="line"/>
+      <point x="500" y="609"/>
+      <point x="436" y="646"/>
+      <point x="305" y="646" type="curve" smooth="yes"/>
+      <point x="115" y="646"/>
+      <point x="50" y="449"/>
+      <point x="50" y="319" type="curve" smooth="yes"/>
+      <point x="50" y="189"/>
+      <point x="115" y="-6"/>
+      <point x="305" y="-6" type="curve" smooth="yes"/>
+      <point x="436" y="-6"/>
+      <point x="500" y="31"/>
+      <point x="500" y="31" type="curve"/>
+      <point x="500" y="114" type="line"/>
+      <point x="500" y="114"/>
+      <point x="427" y="72"/>
+      <point x="319" y="72" type="curve" smooth="yes"/>
+      <point x="211" y="72"/>
+      <point x="152" y="198"/>
+      <point x="152" y="319" type="curve" smooth="yes"/>
+      <point x="152" y="443"/>
+      <point x="196" y="571"/>
     </contour>
     <contour>
-      <point x="366" y="44" type="line"/>
-      <point x="237" y="44" type="line"/>
-      <point x="237" y="0" type="line"/>
-      <point x="183" y="-174" type="line"/>
-      <point x="256" y="-174" type="line"/>
-      <point x="366" y="0" type="line"/>
+      <point x="379" y="44" type="line"/>
+      <point x="250" y="44" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="196" y="-174" type="line"/>
+      <point x="269" y="-174" type="line"/>
+      <point x="379" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,6 +47,28 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ccedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

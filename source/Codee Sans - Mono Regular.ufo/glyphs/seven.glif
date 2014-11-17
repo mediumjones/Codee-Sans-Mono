@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="545"/>
+  <advance width="550"/>
   <outline>
     <contour>
-      <point x="120" y="0" type="move"/>
-      <point x="388" y="551" type="line"/>
-      <point x="53" y="551" type="line"/>
-      <point x="53" y="640" type="line"/>
-      <point x="485" y="640" type="line"/>
-      <point x="485" y="550" type="line" smooth="yes"/>
-      <point x="228" y="0" type="line"/>
+      <point x="126" y="0" type="move"/>
+      <point x="394" y="551" type="line"/>
+      <point x="59" y="551" type="line"/>
+      <point x="59" y="640" type="line"/>
+      <point x="491" y="640" type="line"/>
+      <point x="491" y="550" type="line" smooth="yes"/>
+      <point x="234" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

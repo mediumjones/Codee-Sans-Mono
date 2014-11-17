@@ -1,61 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="1">
-  <advance width="545"/>
+  <advance width="550"/>
   <unicode hex="00DC"/>
   <outline>
     <contour>
-      <point x="506" y="640" type="line"/>
-      <point x="415" y="640" type="line"/>
-      <point x="415" y="249" type="line" smooth="yes"/>
-      <point x="415" y="144"/>
-      <point x="386" y="68"/>
-      <point x="271" y="68" type="curve" smooth="yes"/>
-      <point x="156" y="68"/>
-      <point x="127" y="141"/>
-      <point x="127" y="249" type="curve" smooth="yes"/>
-      <point x="127" y="640" type="line"/>
-      <point x="36" y="640" type="line"/>
-      <point x="36" y="249" type="line" smooth="yes"/>
-      <point x="36" y="109"/>
-      <point x="93" y="-6"/>
-      <point x="271" y="-6" type="curve" smooth="yes"/>
-      <point x="449" y="-6"/>
-      <point x="506" y="112"/>
-      <point x="506" y="249" type="curve" smooth="yes"/>
+      <point x="510" y="640" type="line"/>
+      <point x="419" y="640" type="line"/>
+      <point x="419" y="249" type="line" smooth="yes"/>
+      <point x="419" y="144"/>
+      <point x="390" y="68"/>
+      <point x="275" y="68" type="curve" smooth="yes"/>
+      <point x="160" y="68"/>
+      <point x="131" y="141"/>
+      <point x="131" y="249" type="curve" smooth="yes"/>
+      <point x="131" y="640" type="line"/>
+      <point x="40" y="640" type="line"/>
+      <point x="40" y="249" type="line" smooth="yes"/>
+      <point x="40" y="109"/>
+      <point x="97" y="-6"/>
+      <point x="275" y="-6" type="curve" smooth="yes"/>
+      <point x="453" y="-6"/>
+      <point x="510" y="112"/>
+      <point x="510" y="249" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="220" y="745" type="curve" smooth="yes"/>
-      <point x="220" y="775"/>
-      <point x="196" y="800"/>
-      <point x="165" y="800" type="curve" smooth="yes"/>
-      <point x="135" y="800"/>
-      <point x="111" y="775"/>
-      <point x="111" y="745" type="curve" smooth="yes"/>
-      <point x="111" y="715"/>
-      <point x="135" y="690"/>
-      <point x="165" y="690" type="curve" smooth="yes"/>
-      <point x="196" y="690"/>
-      <point x="220" y="715"/>
+      <point x="224" y="745" type="curve" smooth="yes"/>
+      <point x="224" y="775"/>
+      <point x="200" y="800"/>
+      <point x="169" y="800" type="curve" smooth="yes"/>
+      <point x="139" y="800"/>
+      <point x="115" y="775"/>
+      <point x="115" y="745" type="curve" smooth="yes"/>
+      <point x="115" y="715"/>
+      <point x="139" y="690"/>
+      <point x="169" y="690" type="curve" smooth="yes"/>
+      <point x="200" y="690"/>
+      <point x="224" y="715"/>
     </contour>
     <contour>
-      <point x="434" y="745" type="curve" smooth="yes"/>
-      <point x="434" y="775"/>
-      <point x="410" y="800"/>
-      <point x="379" y="800" type="curve" smooth="yes"/>
-      <point x="349" y="800"/>
-      <point x="325" y="775"/>
-      <point x="325" y="745" type="curve" smooth="yes"/>
-      <point x="325" y="715"/>
-      <point x="349" y="690"/>
-      <point x="379" y="690" type="curve" smooth="yes"/>
-      <point x="410" y="690"/>
-      <point x="434" y="715"/>
+      <point x="438" y="745" type="curve" smooth="yes"/>
+      <point x="438" y="775"/>
+      <point x="414" y="800"/>
+      <point x="383" y="800" type="curve" smooth="yes"/>
+      <point x="353" y="800"/>
+      <point x="329" y="775"/>
+      <point x="329" y="745" type="curve" smooth="yes"/>
+      <point x="329" y="715"/>
+      <point x="353" y="690"/>
+      <point x="383" y="690" type="curve" smooth="yes"/>
+      <point x="414" y="690"/>
+      <point x="438" y="715"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Udieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
