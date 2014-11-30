@@ -3,6 +3,15 @@
   <advance width="550"/>
   <unicode hex="203A"/>
   <outline>
+    <contour>
+      <point x="230" y="414" type="line"/>
+      <point x="372" y="285" type="line"/>
+      <point x="372" y="203" type="line"/>
+      <point x="230" y="82" type="line"/>
+      <point x="230" y="168" type="line"/>
+      <point x="317" y="246" type="line"/>
+      <point x="230" y="325" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

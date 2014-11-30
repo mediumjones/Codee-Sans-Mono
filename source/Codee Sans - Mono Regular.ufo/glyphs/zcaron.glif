@@ -4,24 +4,6 @@
   <unicode hex="017E"/>
   <outline>
     <contour>
-      <point x="466" y="420" type="line"/>
-      <point x="84" y="420" type="line"/>
-      <point x="84" y="490" type="line"/>
-      <point x="466" y="490" type="line"/>
-    </contour>
-    <contour>
-      <point x="478" y="0" type="line"/>
-      <point x="72" y="0" type="line"/>
-      <point x="72" y="70" type="line"/>
-      <point x="478" y="70" type="line"/>
-    </contour>
-    <contour>
-      <point x="466" y="420" type="line"/>
-      <point x="126" y="25" type="line"/>
-      <point x="73" y="70" type="line"/>
-      <point x="413" y="465" type="line"/>
-    </contour>
-    <contour>
       <point x="407" y="690" type="line"/>
       <point x="315" y="586" type="line"/>
       <point x="233" y="586" type="line"/>
@@ -30,6 +12,7 @@
       <point x="276" y="640" type="line"/>
       <point x="318" y="690" type="line"/>
     </contour>
+    <component base="z"/>
   </outline>
   <lib>
     <dict>

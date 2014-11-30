@@ -3,6 +3,12 @@
   <advance width="550"/>
   <unicode hex="201A"/>
   <outline>
+    <contour>
+      <point x="339" y="290" type="line"/>
+      <point x="205" y="290" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -4,10 +4,10 @@
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="478" y="193" type="line"/>
-      <point x="72" y="193" type="line"/>
-      <point x="72" y="273" type="line"/>
-      <point x="478" y="273" type="line"/>
+      <point x="400" y="200" type="line"/>
+      <point x="100" y="200" type="line"/>
+      <point x="100" y="250" type="line"/>
+      <point x="400" y="250" type="line"/>
     </contour>
   </outline>
   <lib>

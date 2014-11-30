@@ -3,6 +3,43 @@
   <advance width="550"/>
   <unicode hex="00BC"/>
   <outline>
+    <contour>
+      <point x="164" y="327" type="line"/>
+      <point x="164" y="573" type="line"/>
+      <point x="122" y="573" type="line"/>
+      <point x="73" y="562" type="line"/>
+      <point x="73" y="530" type="line"/>
+      <point x="122" y="537" type="line"/>
+      <point x="122" y="327" type="line"/>
+      <point x="56" y="327" type="line"/>
+      <point x="56" y="297" type="line"/>
+      <point x="232" y="297" type="line"/>
+      <point x="232" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="484" y="23" type="line"/>
+      <point x="427" y="23" type="line"/>
+      <point x="427" y="203" type="line"/>
+      <point x="390" y="203" type="line"/>
+      <point x="275" y="23" type="line"/>
+      <point x="275" y="-7" type="line"/>
+      <point x="390" y="-7" type="line"/>
+      <point x="390" y="-73" type="line"/>
+      <point x="427" y="-73" type="line"/>
+      <point x="427" y="-7" type="line"/>
+      <point x="484" y="-7" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="23" type="line"/>
+      <point x="390" y="146" type="line"/>
+      <point x="390" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="72" type="line"/>
+      <point x="456" y="388" type="line"/>
+      <point x="424" y="420" type="line"/>
+      <point x="109" y="105" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

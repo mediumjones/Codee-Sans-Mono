@@ -246,12 +246,8 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
-	<key>fi</key>
-	<string>fi.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
-	<key>fl</key>
-	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>four</key>
@@ -468,6 +464,8 @@
 	<string>underscore.glif</string>
 	<key>uni00B5</key>
 	<string>uni00B5_.glif</string>
+	<key>uni02C9</key>
+	<string>uni02C9_.glif</string>
 	<key>uni2113</key>
 	<string>uni2113.glif</string>
 	<key>uni2126</key>
