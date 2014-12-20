@@ -49,13 +49,11 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <real>90</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
-          <key>name</key>
-          <string></string>
           <key>x</key>
           <integer>436</integer>
           <key>y</key>
@@ -63,13 +61,11 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <real>90</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
-          <key>name</key>
-          <string></string>
           <key>x</key>
           <integer>40</integer>
           <key>y</key>
@@ -81,32 +77,27 @@
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>j</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.3696</real>
-        <real>0.6727</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <real>0.36959999999999998</real>
+        <real>0.67269999999999996</real>
+        <real>1</real>
+        <real>1</real>
       </array>
     </dict>
   </lib>

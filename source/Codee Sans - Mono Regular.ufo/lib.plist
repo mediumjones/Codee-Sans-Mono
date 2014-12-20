@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>1D181ACA-DA77-4A70-94E7-537F1008817F</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
 		<real>0.0</real>
-		<real>0.8</real>
-		<real>0.2</real>
-		<real>0.7</real>
+		<real>0.80000000000000004</real>
+		<real>0.20000000000000001</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -28,13 +32,13 @@
 		<real>0.5</real>
 		<real>0.0</real>
 		<real>0.5</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
 		<dict>
 			<key>angle</key>
-			<real>90.0</real>
+			<real>90</real>
 			<key>isGlobal</key>
 			<integer>1</integer>
 			<key>magnetic</key>
@@ -600,10 +604,6 @@
 		<string>estimated</string>
 		<string>lozenge</string>
 		<string>space</string>
-		<string>uni00A0</string>
-		<string>uni00AD</string>
-		<string>fi</string>
-		<string>fl</string>
 		<string>onesuperior</string>
 		<string>threesuperior</string>
 		<string>twosuperior</string>

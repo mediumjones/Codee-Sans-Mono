@@ -29,32 +29,27 @@
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>w</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.3696</real>
-        <real>0.6727</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <real>0.36959999999999998</real>
+        <real>0.67269999999999996</real>
+        <real>1</real>
+        <real>1</real>
       </array>
     </dict>
   </lib>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02C9" format="1">
+  <advance width="545"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="400" y="596" type="line"/>
+      <point x="100" y="596" type="line"/>
+      <point x="100" y="646" type="line"/>
+      <point x="400" y="646" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

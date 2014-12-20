@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="550"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="243" y="640" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="289" y="568" type="line"/>
+      <point x="289" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="164" type="line"/>
+      <point x="325" y="217" type="line"/>
+      <point x="96" y="217" type="line"/>
+      <point x="96" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="63" type="line"/>
+      <point x="350" y="63" type="line"/>
+      <point x="350" y="299" type="line"/>
+      <point x="507" y="299" type="line"/>
+      <point x="507" y="355" type="line"/>
+      <point x="350" y="355" type="line"/>
+      <point x="350" y="577" type="line"/>
+      <point x="553" y="577" type="line"/>
+      <point x="553" y="640" type="line"/>
+      <point x="289" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

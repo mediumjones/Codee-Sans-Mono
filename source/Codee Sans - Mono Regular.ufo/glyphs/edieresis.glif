@@ -32,8 +32,8 @@
       <point x="436" y="605"/>
     </contour>
     <contour>
-      <point x="750.624483781" y="-6.0"/>
-      <point x="-1234.24803339" y="-6.0"/>
+      <point x="751" y="-6"/>
+      <point x="-1234" y="-6"/>
       <point x="285" y="-6" type="curve" smooth="yes"/>
     </contour>
     <component base="e"/>
@@ -45,22 +45,17 @@
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>edieresis</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>550</integer>
         </dict>

@@ -30,6 +30,8 @@ optimize line height more
 ###
 
 #####</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/12/14 19:49:07</string>
 	<key>openTypeNameDesigner</key>
 	<string>Cody Jones</string>
 	<key>openTypeNameDesignerURL</key>
@@ -38,24 +40,22 @@ optimize line height more
 	<string>Licensed under the Open Font License, version 1.1 or later</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Codee Sans Mono</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>postscriptBlueValues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
 	<array>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>

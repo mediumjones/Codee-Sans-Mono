@@ -28,30 +28,30 @@
       <point x="445" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="181.0" y="407.0" type="line"/>
-      <point x="139.0" y="382.0" type="line"/>
-      <point x="139.0" y="382.0"/>
-      <point x="18.0" y="320.0"/>
-      <point x="18.0" y="178.0" type="curve" smooth="yes"/>
-      <point x="18.0" y="76.0"/>
-      <point x="117.0" y="-6.0"/>
-      <point x="238.0" y="-6.0" type="curve" smooth="yes"/>
-      <point x="387.0" y="-6.0"/>
-      <point x="493.0" y="84.0"/>
-      <point x="493.0" y="209.0" type="curve"/>
+      <point x="181" y="407" type="line"/>
+      <point x="139" y="382" type="line"/>
+      <point x="139" y="382"/>
+      <point x="18" y="320"/>
+      <point x="18" y="178" type="curve" smooth="yes"/>
+      <point x="18" y="76"/>
+      <point x="117" y="-6"/>
+      <point x="238" y="-6" type="curve" smooth="yes"/>
+      <point x="387" y="-6"/>
+      <point x="493" y="84"/>
+      <point x="493" y="209" type="curve"/>
       <point x="493" y="310" type="line"/>
       <point x="420" y="310" type="line"/>
-      <point x="420.0" y="209.0" type="line"/>
-      <point x="420.0" y="122.0"/>
-      <point x="350.0" y="59.0"/>
-      <point x="253.0" y="59.0" type="curve" smooth="yes"/>
-      <point x="159.0" y="59.0"/>
-      <point x="99.0" y="105.0"/>
-      <point x="99.0" y="177.0" type="curve" smooth="yes"/>
-      <point x="99.0" y="276.0"/>
-      <point x="178.0" y="327.0"/>
-      <point x="178.0" y="327.0" type="curve"/>
-      <point x="230.0" y="357.0" type="line"/>
+      <point x="420" y="209" type="line"/>
+      <point x="420" y="122"/>
+      <point x="350" y="59"/>
+      <point x="253" y="59" type="curve" smooth="yes"/>
+      <point x="159" y="59"/>
+      <point x="99" y="105"/>
+      <point x="99" y="177" type="curve" smooth="yes"/>
+      <point x="99" y="276"/>
+      <point x="178" y="327"/>
+      <point x="178" y="327" type="curve"/>
+      <point x="230" y="357" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -61,22 +61,17 @@
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>ampersand</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>550</integer>
         </dict>
