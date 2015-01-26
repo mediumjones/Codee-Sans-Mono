@@ -1,0 +1,43 @@
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<title>Codee Sans Mono</title>
+	<style type="text/css" media="screen">
+		@font-face { font-family: 'WOFF Codee Sans Mono-Regular'; src: url('CodeeSansMono-Regular.woff'); }
+		@font-face { font-family: 'WOFF2 Codee Sans Mono-Regular'; src: url('CodeeSansMono-Regular.woff2'); }
+		@font-face { font-family: 'EOT Codee Sans Mono-Regular'; src: url('CodeeSansMono-Regular.eot'); }
+
+		body { font-family: "WOFF Codee Sans Mono-Regular"; }
+		p { padding: 5px; margin: 10px; }
+		p#smallParagraph { font-size: small; }
+		p#largeParagraph { font-size: x-large; }
+		p#veryLargeParagraph { font-size: 100pt; }
+	</style>
+	<script type="text/javascript">
+		function updateParagraph() {
+			var txt = document.getElementById('textInput');
+			var p1 = document.getElementById('smallParagraph');
+			var p2 = document.getElementById('largeParagraph');
+			var p3 = document.getElementById('veryLargeParagraph');
+			p1.textContent = txt.value;
+			p2.textContent = txt.value;
+			p3.textContent = txt.value;
+		}
+		function changeFont() {
+			var selector = document.getElementById('fontFamilySelector');
+			var selected_index = selector.selectedIndex;
+			var selected_option_text = selector.options[selected_index].text;
+			document.getElementById('fontTestBody').style.fontFamily = selected_option_text;
+		}
+	</script>
+</head>
+<body id="fontTestBody">
+	<select size="1" id="fontFamilySelector" name="fontFamilySelector" onchange="changeFont()">
+		<option value="Codee Sans Mono-Regular.woff">WOFF Codee Sans Mono-Regular</option>
+		<option value="Codee Sans Mono-Regular.woff2">WOFF2 Codee Sans Mono-Regular</option>
+		<option value="Codee Sans Mono-Regular.eot">EOT Codee Sans Mono-Regular</option>
+	</select>
+	<input type="text" value="Type Text Here." id="textInput" onkeyup="updateParagraph()" size="80" />
+	<p id="smallParagraph">&#x0041; &#x00C0; &#x00C1; &#x00C2; &#x00C3; &#x00C4; &#x00C5; &#x00C7; &#x00C8; &#x00C9; &#x00CA; &#x00CB; &#x00CC; &#x00CD; &#x00CE; &#x00CF; &#x00D1; &#x00D2; &#x00D3; &#x00D4; &#x00D5; &#x00D6; &#x0160; &#x00D9; &#x00DA; &#x00DB; &#x00DC; &#x00DD; &#x0178; &#x017D; &#x00C6; &#x00D0; &#x00D8; &#x00DE; &#x0141; &#x0152; &#x00B5; &#x00E0; &#x00E1; &#x00E2; &#x00E3; &#x00E4; &#x00E5; &#x00E7; &#x00E8; &#x00E9; &#x00EA; &#x00EB; &#x00EC; &#x00ED; &#x00EE; &#x00EF; &#x00F1; &#x00F2; &#x00F3; &#x00F4; &#x00F5; &#x00F6; &#x0161; &#x00F9; &#x00FA; &#x00FB; &#x00FC; &#x00FD; &#x00FF; &#x017E; &#x00AA; &#x00BA; &#x00DF; &#x00E6; &#x00F0; &#x00F8; &#x00FE; &#x0131; &#x0142; &#x0153; &#x0192; &#x03C0; &#x02C6; &#x02C7; &#x02C9; &#x00BC; &#x00BD; &#x00BE; &#x005F; &#x002D; &#x2013; &#x2014; &#x0028; &#x005B; &#x007B; &#x201A; &#x201E; &#x0029; &#x005D; &#x007D; &#x00AB; &#x2018; &#x201C; &#x2039; &#x00BB; &#x2019; &#x201D; &#x203A; &#x0021; &#x0022; &#x0023; &#x0025; &#x0026; &#x0027; &#x002A; &#x002C; &#x002E; &#x002F; &#x003A; &#x003B; &#x003F; &#x0040; &#x005C; &#x00A1; &#x00B7; &#x00BF; &#x2020; &#x2021; &#x2022; &#x2026; &#x2030; &#x002B; &#x003C; &#x003D; &#x003E; &#x007C; &#x007E; &#x00AC; &#x00B1; &#x00D7; &#x00F7; &#x2044; &#x2202; &#x220F; &#x2211; &#x2212; &#x221A; &#x221E; &#x222B; &#x2248; &#x2260; &#x2264; &#x2265; &#x0024; &#x00A2; &#x00A3; &#x00A4; &#x00A5; &#x20AC; &#x005E; &#x0060; &#x00A8; &#x00AF; &#x00B4; &#x00B8; &#x02D8; &#x02D9; &#x02DA; &#x02DB; &#x02DC; &#x02DD; &#x00A6; &#x00A7; &#x00A9; &#x00AE; &#x00B0; &#x00B6; &#x2122; &#x212E; &#x25CA; &#x0020;</p>
+	<p id="largeParagraph">&#x0041; &#x00C0; &#x00C1; &#x00C2; &#x00C3; &#x00C4; &#x00C5; &#x00C7; &#x00C8; &#x00C9; &#x00CA; &#x00CB; &#x00CC; &#x00CD; &#x00CE; &#x00CF; &#x00D1; &#x00D2; &#x00D3; &#x00D4; &#x00D5; &#x00D6; &#x0160; &#x00D9; &#x00DA; &#x00DB; &#x00DC; &#x00DD; &#x0178; &#x017D; &#x00C6; &#x00D0; &#x00D8; &#x00DE; &#x0141; &#x0152; &#x00B5; &#x00E0; &#x00E1; &#x00E2; &#x00E3; &#x00E4; &#x00E5; &#x00E7; &#x00E8; &#x00E9; &#x00EA; &#x00EB; &#x00EC; &#x00ED; &#x00EE; &#x00EF; &#x00F1; &#x00F2; &#x00F3; &#x00F4; &#x00F5; &#x00F6; &#x0161; &#x00F9; &#x00FA; &#x00FB; &#x00FC; &#x00FD; &#x00FF; &#x017E; &#x00AA; &#x00BA; &#x00DF; &#x00E6; &#x00F0; &#x00F8; &#x00FE; &#x0131; &#x0142; &#x0153; &#x0192; &#x03C0; &#x02C6; &#x02C7; &#x02C9; &#x00BC; &#x00BD; &#x00BE; &#x005F; &#x002D; &#x2013; &#x2014; &#x0028; &#x005B; &#x007B; &#x201A; &#x201E; &#x0029; &#x005D; &#x007D; &#x00AB; &#x2018; &#x201C; &#x2039; &#x00BB; &#x2019; &#x201D; &#x203A; &#x0021; &#x0022; &#x0023; &#x0025; &#x0026; &#x0027; &#x002A; &#x002C; &#x002E; &#x002F; &#x003A; &#x003B; &#x003F; &#x0040; &#x005C; &#x00A1; &#x00B7; &#x00BF; &#x2020; &#x2021; &#x2022; &#x2026; &#x2030; &#x002B; &#x003C; &#x003D; &#x003E; &#x007C; &#x007E; &#x00AC; &#x00B1; &#x00D7; &#x00F7; &#x2044; &#x2202; &#x220F; &#x2211; &#x2212; &#x221A; &#x221E; &#x222B; &#x2248; &#x2260; &#x2264; &#x2265; &#x0024; &#x00A2; &#x00A3; &#x00A4; &#x00A5; &#x20AC; &#x005E; &#x0060; &#x00A8; &#x00AF; &#x00B4; &#x00B8; &#x02D8; &#x02D9; &#x02DA; &#x02DB; &#x02DC; &#x02DD; &#x00A6; &#x00A7; &#x00A9; &#x00AE; &#x00B0; &#x00B6; &#x2122; &#x212E; &#x25CA; &#x0020;</p>
+	<p id="veryLargeParagraph">&#x0041; &#x00C0; &#x00C1; &#x00C2; &#x00C3; &#x00C4; &#x00C5; &#x00C7; &#x00C8; &#x00C9; &#x00CA; &#x00CB; &#x00CC; &#x00CD; &#x00CE; &#x00CF; &#x00D1; &#x00D2; &#x00D3; &#x00D4; &#x00D5; &#x00D6; &#x0160; &#x00D9; &#x00DA; &#x00DB; &#x00DC; &#x00DD; &#x0178; &#x017D; &#x00C6; &#x00D0; &#x00D8; &#x00DE; &#x0141; &#x0152; &#x00B5; &#x00E0; &#x00E1; &#x00E2; &#x00E3; &#x00E4; &#x00E5; &#x00E7; &#x00E8; &#x00E9; &#x00EA; &#x00EB; &#x00EC; &#x00ED; &#x00EE; &#x00EF; &#x00F1; &#x00F2; &#x00F3; &#x00F4; &#x00F5; &#x00F6; &#x0161; &#x00F9; &#x00FA; &#x00FB; &#x00FC; &#x00FD; &#x00FF; &#x017E; &#x00AA; &#x00BA; &#x00DF; &#x00E6; &#x00F0; &#x00F8; &#x00FE; &#x0131; &#x0142; &#x0153; &#x0192; &#x03C0; &#x02C6; &#x02C7; &#x02C9; &#x00BC; &#x00BD; &#x00BE; &#x005F; &#x002D; &#x2013; &#x2014; &#x0028; &#x005B; &#x007B; &#x201A; &#x201E; &#x0029; &#x005D; &#x007D; &#x00AB; &#x2018; &#x201C; &#x2039; &#x00BB; &#x2019; &#x201D; &#x203A; &#x0021; &#x0022; &#x0023; &#x0025; &#x0026; &#x0027; &#x002A; &#x002C; &#x002E; &#x002F; &#x003A; &#x003B; &#x003F; &#x0040; &#x005C; &#x00A1; &#x00B7; &#x00BF; &#x2020; &#x2021; &#x2022; &#x2026; &#x2030; &#x002B; &#x003C; &#x003D; &#x003E; &#x007C; &#x007E; &#x00AC; &#x00B1; &#x00D7; &#x00F7; &#x2044; &#x2202; &#x220F; &#x2211; &#x2212; &#x221A; &#x221E; &#x222B; &#x2248; &#x2260; &#x2264; &#x2265; &#x0024; &#x00A2; &#x00A3; &#x00A4; &#x00A5; &#x20AC; &#x005E; &#x0060; &#x00A8; &#x00AF; &#x00B4; &#x00B8; &#x02D8; &#x02D9; &#x02DA; &#x02DB; &#x02DC; &#x02DD; &#x00A6; &#x00A7; &#x00A9; &#x00AE; &#x00B0; &#x00B6; &#x2122; &#x212E; &#x25CA; &#x0020;</p>
+</body>

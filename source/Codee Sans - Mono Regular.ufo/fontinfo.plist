@@ -3,33 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>690</integer>
+	<integer>675</integer>
 	<key>capHeight</key>
-	<integer>640</integer>
+	<integer>626</integer>
 	<key>copyright</key>
 	<string>Cody Jones</string>
 	<key>descender</key>
-	<integer>-202</integer>
+	<integer>-198</integer>
 	<key>familyName</key>
 	<string>Codee Sans Mono</string>
 	<key>note</key>
-	<string>### RoboToDo ###
-
-### TODO:
-Curve EQ n - z
-###
-
-
-
-### TODO:
-go back and make proper components for diacritics
-###
-
-### TODO:
-optimize line height more
-###
-
-#####</string>
+	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2014/12/14 19:49:07</string>
 	<key>openTypeNameDesigner</key>
@@ -57,14 +41,14 @@ optimize line height more
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string></string>
 	<key>unitsPerEm</key>
-	<integer>920</integer>
+	<integer>800</integer>
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
 	<integer>1</integer>
 	<key>xHeight</key>
-	<integer>490</integer>
+	<integer>479</integer>
 </dict>
 </plist>

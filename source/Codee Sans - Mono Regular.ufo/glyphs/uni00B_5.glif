@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni00B5" format="1">
-  <advance width="550"/>
+  <advance width="600"/>
   <unicode hex="00B5"/>
   <outline>
     <contour>
-      <point x="71" y="490" type="line"/>
-      <point x="71" y="-203" type="line"/>
-      <point x="155" y="-203" type="line"/>
-      <point x="155" y="490" type="line"/>
+      <point x="95" y="479" type="line"/>
+      <point x="95" y="-199" type="line"/>
+      <point x="178" y="-199" type="line"/>
+      <point x="178" y="479" type="line"/>
     </contour>
-    <component base="u"/>
+    <component base="u" xOffset="26"/>
   </outline>
   <lib>
     <dict>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="1">
-  <advance width="550"/>
+  <advance width="600"/>
   <unicode hex="00C7"/>
   <outline>
     <contour>
-      <point x="379" y="44" type="line"/>
-      <point x="250" y="44" type="line"/>
-      <point x="250" y="0" type="line"/>
-      <point x="196" y="-174" type="line"/>
-      <point x="269" y="-174" type="line"/>
-      <point x="379" y="0" type="line"/>
+      <point x="371" y="43" type="line"/>
+      <point x="245" y="43" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="192" y="-170" type="line"/>
+      <point x="263" y="-170" type="line"/>
+      <point x="371" y="0" type="line"/>
     </contour>
     <component base="C"/>
   </outline>

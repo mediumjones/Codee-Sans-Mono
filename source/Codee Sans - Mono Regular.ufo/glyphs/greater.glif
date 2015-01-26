@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="550"/>
+  <advance width="600"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="101" y="499" type="line"/>
-      <point x="101" y="411" type="line"/>
-      <point x="372" y="250" type="line"/>
-      <point x="101" y="87" type="line"/>
-      <point x="101" y="-6" type="line"/>
-      <point x="449" y="200" type="line"/>
-      <point x="449" y="200"/>
-      <point x="449" y="300"/>
-      <point x="449" y="300" type="curve"/>
+      <point x="130" y="488" type="line"/>
+      <point x="130" y="402" type="line"/>
+      <point x="395" y="245" type="line"/>
+      <point x="130" y="85" type="line"/>
+      <point x="130" y="-6" type="line"/>
+      <point x="470" y="196" type="line"/>
+      <point x="470" y="196"/>
+      <point x="470" y="293"/>
+      <point x="470" y="293" type="curve"/>
     </contour>
   </outline>
   <lib>

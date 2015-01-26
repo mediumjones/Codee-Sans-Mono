@@ -5,7 +5,7 @@
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>1D181ACA-DA77-4A70-94E7-537F1008817F</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
 		<real>0.0</real>
@@ -607,11 +607,6 @@
 		<string>onesuperior</string>
 		<string>threesuperior</string>
 		<string>twosuperior</string>
-		<string>uni2113</string>
-		<string>uni2126</string>
-		<string>uni2206</string>
-		<string>uni2215</string>
-		<string>uni2219</string>
 		<string>.notdef</string>
 	</array>
 </dict>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="1">
-  <advance width="550"/>
+  <advance width="600"/>
   <unicode hex="0160"/>
   <outline>
     <contour>
-      <point x="405" y="794" type="line"/>
-      <point x="313" y="690" type="line"/>
-      <point x="231" y="690" type="line"/>
-      <point x="145" y="794" type="line"/>
-      <point x="232" y="794" type="line"/>
-      <point x="274" y="744" type="line"/>
-      <point x="316" y="794" type="line"/>
+      <point x="396" y="777" type="line"/>
+      <point x="306" y="675" type="line"/>
+      <point x="226" y="675" type="line"/>
+      <point x="142" y="777" type="line"/>
+      <point x="227" y="777" type="line"/>
+      <point x="268" y="728" type="line"/>
+      <point x="309" y="777" type="line"/>
     </contour>
     <component base="S"/>
   </outline>

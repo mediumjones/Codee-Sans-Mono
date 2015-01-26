@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="1">
-  <advance width="550"/>
+  <advance width="600"/>
   <unicode hex="00EA"/>
   <outline>
     <contour>
-      <point x="406" y="586" type="line"/>
-      <point x="317" y="586" type="line"/>
-      <point x="275" y="636" type="line"/>
-      <point x="233" y="586" type="line"/>
-      <point x="146" y="586" type="line"/>
-      <point x="232" y="690" type="line"/>
-      <point x="314" y="690" type="line"/>
+      <point x="397" y="573" type="line"/>
+      <point x="310" y="573" type="line"/>
+      <point x="269" y="622" type="line"/>
+      <point x="228" y="573" type="line"/>
+      <point x="143" y="573" type="line"/>
+      <point x="227" y="675" type="line"/>
+      <point x="307" y="675" type="line"/>
     </contour>
     <component base="e"/>
   </outline>

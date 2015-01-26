@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
-  <advance width="550"/>
+  <advance width="600"/>
   <unicode hex="00F3"/>
   <outline>
     <contour>
-      <point x="232" y="586" type="line"/>
-      <point x="335" y="690" type="line"/>
-      <point x="456" y="690" type="line"/>
-      <point x="317" y="586" type="line"/>
+      <point x="227" y="573" type="line"/>
+      <point x="328" y="675" type="line"/>
+      <point x="446" y="675" type="line"/>
+      <point x="310" y="573" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

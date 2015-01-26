@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="550"/>
+  <advance width="600"/>
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="210" y="350" type="line"/>
-      <point x="340" y="350" type="line"/>
+      <point x="271" y="342" type="line"/>
+      <point x="379" y="342" type="line"/>
     </contour>
     <contour>
-      <point x="350" y="499" type="line"/>
-      <point x="200" y="499" type="line"/>
-      <point x="200" y="350" type="line"/>
-      <point x="350" y="350" type="line"/>
+      <point x="388" y="488" type="line"/>
+      <point x="262" y="488" type="line"/>
+      <point x="262" y="342" type="line"/>
+      <point x="388" y="342" type="line"/>
     </contour>
     <contour>
-      <point x="350" y="149" type="line"/>
-      <point x="200" y="149" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="148" y="-150" type="line"/>
-      <point x="251" y="-150" type="line"/>
-      <point x="350" y="0" type="line"/>
+      <point x="388" y="146" type="line"/>
+      <point x="262" y="146" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="211" y="-147" type="line"/>
+      <point x="312" y="-147" type="line"/>
+      <point x="388" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
