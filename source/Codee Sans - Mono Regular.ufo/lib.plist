@@ -608,6 +608,7 @@
 		<string>threesuperior</string>
 		<string>twosuperior</string>
 		<string>.notdef</string>
+		<string>nbspace</string>
 	</array>
 </dict>
 </plist>
