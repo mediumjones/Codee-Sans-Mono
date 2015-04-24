@@ -5,7 +5,7 @@
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>1D181ACA-DA77-4A70-94E7-537F1008817F</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<integer>0</integer>
+	<false/>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
 		<real>0.0</real>
