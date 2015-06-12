@@ -50,8 +50,8 @@
       <array>
         <real>0.36959999999999998</real>
         <real>0.67269999999999996</real>
-        <real>1</real>
-        <real>1</real>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

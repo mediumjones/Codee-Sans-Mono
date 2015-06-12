@@ -47,8 +47,8 @@
       <array>
         <real>0.6705882352941176</real>
         <real>0.58431372549019611</real>
-        <real>0.9882352941176471</real>
-        <real>1</real>
+        <real>0.98823529411764721</real>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

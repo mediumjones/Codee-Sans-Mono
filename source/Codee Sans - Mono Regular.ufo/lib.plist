@@ -8,7 +8,7 @@
 	<false/>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
-		<real>0.0</real>
+		<integer>0</integer>
 		<real>0.80000000000000004</real>
 		<real>0.20000000000000001</real>
 		<real>0.69999999999999996</real>
@@ -30,7 +30,7 @@
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
-		<real>0.0</real>
+		<integer>0</integer>
 		<real>0.5</real>
 		<real>0.69999999999999996</real>
 	</array>
@@ -38,7 +38,7 @@
 	<array>
 		<dict>
 			<key>angle</key>
-			<real>90</real>
+			<integer>90</integer>
 			<key>isGlobal</key>
 			<integer>1</integer>
 			<key>magnetic</key>
@@ -62,7 +62,7 @@
 			<key>x</key>
 			<integer>306</integer>
 			<key>y</key>
-			<integer>-6</integer>
+			<string>-6</string>
 		</dict>
 		<dict>
 			<key>angle</key>

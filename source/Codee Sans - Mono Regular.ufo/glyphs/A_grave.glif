@@ -17,9 +17,9 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90</real>
+          <integer>90</integer>
           <key>isGlobal</key>
-          <false/>
+          <integer>0</integer>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>

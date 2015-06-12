@@ -44,7 +44,7 @@
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
-          <false/>
+          <integer>0</integer>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
@@ -77,8 +77,8 @@
       <array>
         <real>0.62560000000000004</real>
         <real>0.55100000000000005</real>
-        <real>1</real>
-        <real>1</real>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>
