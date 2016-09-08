@@ -7,53 +7,47 @@
       <point x="499" y="626" type="line"/>
       <point x="418" y="132" type="line"/>
       <point x="347" y="353" type="line"/>
-      <point x="347" y="353"/>
-      <point x="270" y="353"/>
-      <point x="270" y="353" type="curve"/>
+      <point x="270" y="353" type="line"/>
       <point x="194" y="124" type="line"/>
       <point x="101" y="626" type="line"/>
       <point x="24" y="626" type="line"/>
       <point x="147" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="218" y="0" type="line"/>
       <point x="219" y="0" type="line"/>
       <point x="308" y="254" type="line"/>
       <point x="396" y="0" type="line"/>
-      <point x="397" y="0" type="line"/>
-      <point x="460" y="0" type="line"/>
       <point x="467" y="0" type="line"/>
       <point x="576" y="626" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-08 18:48:30 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>W</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.62560000000000004</real>
-        <real>0.55100000000000005</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -7,58 +7,50 @@
       <point x="546" y="479" type="line"/>
       <point x="447" y="479" type="line"/>
       <point x="290" y="279" type="line"/>
-      <point x="290" y="279"/>
-      <point x="310" y="279"/>
-      <point x="310" y="279" type="curve"/>
+      <point x="310" y="279" type="line"/>
       <point x="157" y="479" type="line"/>
       <point x="53" y="479" type="line"/>
       <point x="250" y="233" type="line"/>
-      <point x="250" y="233"/>
-      <point x="256" y="248"/>
-      <point x="256" y="248" type="curve"/>
+      <point x="256" y="248" type="line"/>
       <point x="58" y="0" type="line"/>
       <point x="157" y="0" type="line"/>
       <point x="305" y="194" type="line"/>
-      <point x="305" y="194"/>
-      <point x="289" y="194"/>
-      <point x="289" y="194" type="curve"/>
+      <point x="289" y="194" type="line"/>
       <point x="441" y="0" type="line"/>
       <point x="546" y="0" type="line"/>
       <point x="347" y="248" type="line"/>
-      <point x="347" y="248"/>
-      <point x="347" y="231"/>
-      <point x="347" y="231" type="curve"/>
+      <point x="347" y="231" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-08 18:48:30 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>x</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.36959999999999998</real>
-        <real>0.67269999999999996</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

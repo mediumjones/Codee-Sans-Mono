@@ -45,7 +45,7 @@
       <point x="135" y="633"/>
       <point x="29" y="543"/>
       <point x="29" y="543" type="curve"/>
-      <point x="69" y="483" type="line" smooth="yes"/>
+      <point x="69" y="483" type="line"/>
       <point x="69" y="483"/>
       <point x="157" y="562"/>
       <point x="267" y="562" type="curve" smooth="yes"/>
@@ -64,22 +64,29 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-08 18:48:30 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>at</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>

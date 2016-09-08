@@ -12,13 +12,9 @@
       <point x="450" y="413"/>
       <point x="451" y="355"/>
       <point x="451" y="302" type="curve" smooth="yes"/>
-      <point x="451" y="202"/>
-      <point x="451" y="101"/>
-      <point x="451" y="0" type="curve"/>
+      <point x="451" y="0" type="line"/>
       <point x="525" y="0" type="line"/>
-      <point x="525" y="102"/>
-      <point x="525" y="203"/>
-      <point x="525" y="305" type="curve" smooth="yes"/>
+      <point x="525" y="305" type="line" smooth="yes"/>
       <point x="525" y="391"/>
       <point x="512" y="488"/>
       <point x="426" y="488" type="curve" smooth="yes"/>
@@ -34,13 +30,9 @@
       <point x="262" y="413"/>
       <point x="267" y="355"/>
       <point x="267" y="302" type="curve" smooth="yes"/>
-      <point x="267" y="202"/>
-      <point x="267" y="101"/>
-      <point x="267" y="0" type="curve"/>
+      <point x="267" y="0" type="line"/>
       <point x="341" y="0" type="line"/>
-      <point x="341" y="102"/>
-      <point x="341" y="203"/>
-      <point x="341" y="305" type="curve" smooth="yes"/>
+      <point x="341" y="305" type="line" smooth="yes"/>
       <point x="341" y="391"/>
       <point x="332" y="488"/>
       <point x="246" y="488" type="curve" smooth="yes"/>
@@ -56,33 +48,33 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-08 18:48:30 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>m</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.36959999999999998</real>
-        <real>0.67269999999999996</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

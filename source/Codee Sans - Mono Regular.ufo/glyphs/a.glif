@@ -4,10 +4,16 @@
   <unicode hex="0061"/>
   <outline>
     <contour>
+      <point x="313" y="301" type="curve" smooth="yes"/>
+      <point x="360" y="301"/>
+      <point x="403" y="295"/>
       <point x="423" y="295" type="curve"/>
       <point x="423" y="246" type="line"/>
-      <point x="389" y="246"/>
-      <point x="179" y="266"/>
+      <point x="414" y="246"/>
+      <point x="394" y="247"/>
+      <point x="369" y="247" type="curve" smooth="yes"/>
+      <point x="295" y="247"/>
+      <point x="179" y="236"/>
       <point x="179" y="150" type="curve" smooth="yes"/>
       <point x="179" y="92"/>
       <point x="216" y="57"/>
@@ -21,9 +27,9 @@
       <point x="247" y="-5" type="curve" smooth="yes"/>
       <point x="157" y="-5"/>
       <point x="101" y="47"/>
-      <point x="101" y="130" type="curve"/>
-      <point x="101" y="349"/>
-      <point x="361" y="295"/>
+      <point x="101" y="130" type="curve" smooth="yes"/>
+      <point x="101" y="277"/>
+      <point x="218" y="301"/>
     </contour>
     <contour>
       <point x="121" y="425" type="line"/>
@@ -33,13 +39,9 @@
       <point x="439" y="489"/>
       <point x="498" y="437"/>
       <point x="498" y="315" type="curve" smooth="yes"/>
-      <point x="498" y="197"/>
-      <point x="498" y="1"/>
-      <point x="498" y="1" type="curve"/>
+      <point x="498" y="1" type="line"/>
       <point x="414" y="1" type="line"/>
-      <point x="414" y="1"/>
-      <point x="414" y="256"/>
-      <point x="414" y="312" type="curve" smooth="yes"/>
+      <point x="414" y="312" type="line" smooth="yes"/>
       <point x="414" y="390"/>
       <point x="379" y="424"/>
       <point x="295" y="424" type="curve" smooth="yes"/>
@@ -50,35 +52,36 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-08 18:48:41 +0000</string>
       <key>com.typemytype.robofont.guides</key>
-      <array/>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>a</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.36959999999999998</real>
-        <real>0.67269999999999996</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

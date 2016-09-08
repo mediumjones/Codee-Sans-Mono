@@ -20,12 +20,12 @@
       <point x="307" y="0" type="line"/>
       <point x="565" y="0" type="line"/>
       <point x="565" y="62" type="line"/>
-      <point x="366" y="62" type="line"/>
-      <point x="366" y="293" type="line"/>
+      <point x="384" y="62" type="line"/>
+      <point x="384" y="293" type="line"/>
       <point x="520" y="293" type="line"/>
       <point x="520" y="347" type="line"/>
-      <point x="366" y="347" type="line"/>
-      <point x="366" y="564" type="line"/>
+      <point x="384" y="347" type="line"/>
+      <point x="384" y="564" type="line"/>
       <point x="565" y="564" type="line"/>
       <point x="565" y="626" type="line"/>
       <point x="307" y="626" type="line"/>
@@ -33,22 +33,29 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-08 18:49:15 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>AE</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>

@@ -6,9 +6,7 @@
     <contour>
       <point x="470" y="488" type="line"/>
       <point x="130" y="293" type="line"/>
-      <point x="130" y="293"/>
-      <point x="130" y="196"/>
-      <point x="130" y="196" type="curve"/>
+      <point x="130" y="196" type="line"/>
       <point x="470" y="-6" type="line"/>
       <point x="470" y="85" type="line"/>
       <point x="205" y="245" type="line"/>
@@ -17,22 +15,29 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-08 18:48:30 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>less</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>
