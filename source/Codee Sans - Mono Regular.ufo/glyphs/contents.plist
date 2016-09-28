@@ -206,6 +206,8 @@
 	<string>daggerdbl.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>degree.001</key>
+	<string>degree.001.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>divide</key>

@@ -12,26 +12,26 @@
     <contour>
       <point x="499" y="398" type="line"/>
       <point x="499" y="398"/>
-      <point x="417" y="424"/>
+      <point x="412" y="424"/>
       <point x="331" y="424" type="curve" smooth="yes"/>
-      <point x="232" y="424"/>
+      <point x="212" y="424"/>
       <point x="183" y="367"/>
       <point x="183" y="253" type="curve" smooth="yes"/>
       <point x="183" y="130"/>
       <point x="218" y="69"/>
       <point x="289" y="69" type="curve" smooth="yes"/>
       <point x="385" y="69"/>
-      <point x="435" y="181"/>
-      <point x="435" y="181" type="curve"/>
-      <point x="444" y="121" type="line"/>
-      <point x="444" y="121"/>
-      <point x="380" y="-6"/>
-      <point x="288" y="-6" type="curve" smooth="yes"/>
-      <point x="163" y="-6"/>
+      <point x="442" y="181"/>
+      <point x="442" y="181" type="curve"/>
+      <point x="444" y="131" type="line"/>
+      <point x="444" y="131"/>
+      <point x="410" y="-6"/>
+      <point x="278" y="-6" type="curve" smooth="yes"/>
+      <point x="173" y="-6"/>
       <point x="101" y="79"/>
       <point x="101" y="250" type="curve" smooth="yes"/>
       <point x="101" y="409"/>
-      <point x="177" y="488"/>
+      <point x="147" y="488"/>
       <point x="327" y="488" type="curve" smooth="yes"/>
       <point x="416" y="488"/>
       <point x="499" y="470"/>
@@ -40,30 +40,37 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-27 21:29:33 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>d</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.36959999999999998</real>
-        <real>0.67269999999999996</real>
+        <real>0.37</real>
+        <real>0.673</real>
         <integer>1</integer>
         <integer>1</integer>
       </array>

@@ -6,7 +6,7 @@
     <contour>
       <point x="499" y="79" type="line"/>
       <point x="460" y="71"/>
-      <point x="443" y="69"/>
+      <point x="439" y="69"/>
       <point x="418" y="69" type="curve" smooth="yes"/>
       <point x="327" y="69"/>
       <point x="302" y="104"/>
@@ -19,7 +19,7 @@
       <point x="220" y="44"/>
       <point x="260" y="-6"/>
       <point x="407" y="-6" type="curve" smooth="yes"/>
-      <point x="443" y="-6"/>
+      <point x="436" y="-6"/>
       <point x="462" y="-4"/>
       <point x="499" y="3" type="curve"/>
     </contour>
@@ -32,30 +32,37 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-28 22:22:59 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>t</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.36959999999999998</real>
-        <real>0.67269999999999996</real>
+        <real>0.37</real>
+        <real>0.673</real>
         <integer>1</integer>
         <integer>1</integer>
       </array>

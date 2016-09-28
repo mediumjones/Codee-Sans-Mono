@@ -35,15 +35,17 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFontName</key>
+	<string>CodeeSansMono-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string></string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
-	<integer>800</integer>
+	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>

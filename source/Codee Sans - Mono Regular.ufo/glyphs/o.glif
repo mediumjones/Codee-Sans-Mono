@@ -34,30 +34,37 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-27 17:40:13 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>o</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.36959999999999998</real>
-        <real>0.67269999999999996</real>
+        <real>0.37</real>
+        <real>0.673</real>
         <integer>1</integer>
         <integer>1</integer>
       </array>
