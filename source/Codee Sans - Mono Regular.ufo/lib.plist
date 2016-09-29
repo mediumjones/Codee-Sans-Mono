@@ -293,15 +293,15 @@
 	<array>
 		<dict>
 			<key>angle</key>
-			<real>-0.052</real>
+			<real>176.562</real>
 			<key>isGlobal</key>
 			<true/>
 			<key>name</key>
 			<string>Baseline Overshoot</string>
 			<key>x</key>
-			<integer>306</integer>
+			<integer>250</integer>
 			<key>y</key>
-			<integer>-6</integer>
+			<integer>-306</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
