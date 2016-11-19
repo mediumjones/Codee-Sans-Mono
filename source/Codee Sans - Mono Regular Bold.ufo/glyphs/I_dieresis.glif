@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="600"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="216" y="729" type="curve" smooth="yes"/>
+      <point x="216" y="758"/>
+      <point x="193" y="783"/>
+      <point x="162" y="783" type="curve" smooth="yes"/>
+      <point x="133" y="783"/>
+      <point x="110" y="758"/>
+      <point x="110" y="729" type="curve" smooth="yes"/>
+      <point x="110" y="699"/>
+      <point x="133" y="675"/>
+      <point x="162" y="675" type="curve" smooth="yes"/>
+      <point x="193" y="675"/>
+      <point x="216" y="699"/>
+    </contour>
+    <contour>
+      <point x="426" y="729" type="curve" smooth="yes"/>
+      <point x="426" y="758"/>
+      <point x="402" y="783"/>
+      <point x="372" y="783" type="curve" smooth="yes"/>
+      <point x="342" y="783"/>
+      <point x="319" y="758"/>
+      <point x="319" y="729" type="curve" smooth="yes"/>
+      <point x="319" y="699"/>
+      <point x="342" y="675"/>
+      <point x="372" y="675" type="curve" smooth="yes"/>
+      <point x="402" y="675"/>
+      <point x="426" y="699"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:59:37 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Idieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

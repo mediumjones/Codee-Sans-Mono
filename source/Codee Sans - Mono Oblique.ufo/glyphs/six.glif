@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six" format="1">
+  <advance width="600"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="357" y="-6"/>
+      <point x="470" y="63"/>
+      <point x="492" y="190" type="curve" smooth="yes"/>
+      <point x="509" y="285"/>
+      <point x="472" y="383"/>
+      <point x="343" y="383" type="curve" smooth="yes"/>
+      <point x="253" y="383"/>
+      <point x="165" y="334"/>
+      <point x="165" y="334" type="curve"/>
+      <point x="150" y="242" type="line"/>
+      <point x="150" y="242"/>
+      <point x="227" y="314"/>
+      <point x="309" y="314" type="curve" smooth="yes"/>
+      <point x="373" y="314"/>
+      <point x="427" y="271"/>
+      <point x="412" y="189" type="curve" smooth="yes"/>
+      <point x="397" y="108"/>
+      <point x="329" y="64"/>
+      <point x="265" y="64" type="curve" smooth="yes"/>
+      <point x="175" y="64"/>
+      <point x="142" y="147"/>
+      <point x="169" y="303" type="curve" smooth="yes"/>
+      <point x="199" y="472"/>
+      <point x="274" y="562"/>
+      <point x="384" y="562" type="curve" smooth="yes"/>
+      <point x="454" y="562"/>
+      <point x="515" y="526"/>
+      <point x="515" y="526" type="curve"/>
+      <point x="530" y="601" type="line"/>
+      <point x="530" y="601"/>
+      <point x="483" y="632"/>
+      <point x="402" y="632" type="curve" smooth="yes"/>
+      <point x="251" y="632"/>
+      <point x="124" y="529"/>
+      <point x="88" y="323" type="curve" smooth="yes"/>
+      <point x="48" y="97"/>
+      <point x="105" y="-6"/>
+      <point x="247" y="-6" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:44:24 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>six</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

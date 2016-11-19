@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="600"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="298" y="420" type="curve" smooth="yes"/>
+      <point x="391" y="420"/>
+      <point x="436" y="338"/>
+      <point x="436" y="243" type="curve" smooth="yes"/>
+      <point x="436" y="151"/>
+      <point x="393" y="64"/>
+      <point x="298" y="64" type="curve" smooth="yes"/>
+      <point x="203" y="64"/>
+      <point x="165" y="151"/>
+      <point x="165" y="243" type="curve" smooth="yes"/>
+      <point x="165" y="338"/>
+      <point x="205" y="420"/>
+    </contour>
+    <contour>
+      <point x="297" y="488" type="curve" smooth="yes"/>
+      <point x="156" y="488"/>
+      <point x="79" y="383"/>
+      <point x="79" y="244" type="curve" smooth="yes"/>
+      <point x="79" y="105"/>
+      <point x="155" y="-6"/>
+      <point x="296" y="-6" type="curve" smooth="yes"/>
+      <point x="436" y="-6"/>
+      <point x="521" y="102"/>
+      <point x="521" y="244" type="curve" smooth="yes"/>
+      <point x="521" y="385"/>
+      <point x="436" y="488"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:59:38 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>o</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.37</real>
+        <real>0.673</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

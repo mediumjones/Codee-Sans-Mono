@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="600"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="310" y="385" type="curve"/>
+      <point x="341" y="302" type="line"/>
+      <point x="341" y="358"/>
+      <point x="341" y="413"/>
+      <point x="397" y="413" type="curve" smooth="yes"/>
+      <point x="455" y="413"/>
+      <point x="451" y="355"/>
+      <point x="451" y="302" type="curve" smooth="yes"/>
+      <point x="451" y="202"/>
+      <point x="451" y="101"/>
+      <point x="451" y="0" type="curve"/>
+      <point x="525" y="0" type="line"/>
+      <point x="525" y="102"/>
+      <point x="525" y="203"/>
+      <point x="525" y="305" type="curve" smooth="yes"/>
+      <point x="525" y="391"/>
+      <point x="508" y="488"/>
+      <point x="426" y="488" type="curve" smooth="yes"/>
+      <point x="367" y="488"/>
+      <point x="338" y="437"/>
+    </contour>
+    <contour>
+      <point x="125" y="385" type="curve"/>
+      <point x="157" y="302" type="line"/>
+      <point x="156" y="357"/>
+      <point x="154" y="413"/>
+      <point x="209" y="413" type="curve" smooth="yes"/>
+      <point x="265" y="413"/>
+      <point x="267" y="355"/>
+      <point x="267" y="302" type="curve" smooth="yes"/>
+      <point x="267" y="202"/>
+      <point x="267" y="101"/>
+      <point x="267" y="0" type="curve"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="102"/>
+      <point x="341" y="203"/>
+      <point x="341" y="305" type="curve" smooth="yes"/>
+      <point x="341" y="391"/>
+      <point x="328" y="488"/>
+      <point x="246" y="488" type="curve" smooth="yes"/>
+      <point x="186" y="488"/>
+      <point x="155" y="437"/>
+    </contour>
+    <contour>
+      <point x="75" y="479" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="479" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:59:38 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.37</real>
+        <real>0.673</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

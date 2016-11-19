@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="600"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="168" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="296" y="230" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="612" y="479" type="line"/>
+      <point x="539" y="479" type="line"/>
+      <point x="384" y="87" type="line"/>
+      <point x="401" y="87" type="line"/>
+      <point x="349" y="316" type="line"/>
+      <point x="273" y="316" type="line"/>
+      <point x="155" y="82" type="line"/>
+      <point x="163" y="82" type="line"/>
+      <point x="146" y="479" type="line"/>
+      <point x="71" y="479" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:44:24 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.37</real>
+        <real>0.673</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
