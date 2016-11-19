@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="600"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="298" y="0" type="line"/>
+      <point x="316" y="102"/>
+      <point x="334" y="203"/>
+      <point x="351" y="305" type="curve" smooth="yes"/>
+      <point x="366" y="391"/>
+      <point x="371" y="488"/>
+      <point x="289" y="488" type="curve" smooth="yes"/>
+      <point x="229" y="488"/>
+      <point x="189" y="437"/>
+      <point x="150" y="385" type="curve"/>
+      <point x="167" y="302" type="line"/>
+      <point x="176" y="357"/>
+      <point x="184" y="413"/>
+      <point x="239" y="413" type="curve" smooth="yes"/>
+      <point x="295" y="413"/>
+      <point x="287" y="355"/>
+      <point x="277" y="302" type="curve" smooth="yes"/>
+      <point x="260" y="202"/>
+      <point x="242" y="101"/>
+      <point x="224" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="114" y="0" type="line"/>
+      <point x="199" y="479" type="line"/>
+      <point x="117" y="479" type="line"/>
+      <point x="32" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="0" type="line"/>
+      <point x="500" y="102"/>
+      <point x="518" y="203"/>
+      <point x="535" y="305" type="curve" smooth="yes"/>
+      <point x="550" y="391"/>
+      <point x="551" y="488"/>
+      <point x="469" y="488" type="curve" smooth="yes"/>
+      <point x="410" y="488"/>
+      <point x="372" y="437"/>
+      <point x="335" y="385" type="curve"/>
+      <point x="351" y="302" type="line"/>
+      <point x="361" y="358"/>
+      <point x="371" y="413"/>
+      <point x="427" y="413" type="curve" smooth="yes"/>
+      <point x="485" y="413"/>
+      <point x="471" y="355"/>
+      <point x="461" y="302" type="curve" smooth="yes"/>
+      <point x="444" y="202"/>
+      <point x="426" y="101"/>
+      <point x="408" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:44:24 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.37</real>
+        <real>0.673</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

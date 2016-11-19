@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="1">
+  <advance width="600"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="297" y="194" type="line"/>
+      <point x="297" y="194"/>
+      <point x="281" y="194"/>
+      <point x="281" y="194" type="curve"/>
+      <point x="399" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="349" y="248" type="line"/>
+      <point x="349" y="248"/>
+      <point x="345" y="231"/>
+      <point x="345" y="231" type="curve"/>
+      <point x="588" y="479" type="line"/>
+      <point x="489" y="479" type="line"/>
+      <point x="297" y="279" type="line"/>
+      <point x="297" y="279"/>
+      <point x="317" y="279"/>
+      <point x="317" y="279" type="curve"/>
+      <point x="199" y="479" type="line"/>
+      <point x="95" y="479" type="line"/>
+      <point x="249" y="233" type="line"/>
+      <point x="249" y="233"/>
+      <point x="258" y="248"/>
+      <point x="258" y="248" type="curve"/>
+      <point x="16" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:44:24 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.37</real>
+        <real>0.673</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis" format="1">
+  <advance width="600"/>
+  <unicode hex="00EB"/>
+  <outline>
+    <contour>
+      <point x="544" y="567"/>
+      <point x="572" y="592"/>
+      <point x="577" y="621" type="curve" smooth="yes"/>
+      <point x="582" y="651"/>
+      <point x="563" y="675"/>
+      <point x="533" y="675" type="curve" smooth="yes"/>
+      <point x="503" y="675"/>
+      <point x="476" y="651"/>
+      <point x="470" y="621" type="curve" smooth="yes"/>
+      <point x="464" y="592"/>
+      <point x="484" y="567"/>
+      <point x="514" y="567" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-1167" y="-6"/>
+      <point x="775" y="-6"/>
+      <point x="319" y="-6" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="335" y="567"/>
+      <point x="362" y="592"/>
+      <point x="367" y="621" type="curve" smooth="yes"/>
+      <point x="372" y="651"/>
+      <point x="354" y="675"/>
+      <point x="323" y="675" type="curve" smooth="yes"/>
+      <point x="294" y="675"/>
+      <point x="267" y="651"/>
+      <point x="261" y="621" type="curve" smooth="yes"/>
+      <point x="255" y="592"/>
+      <point x="275" y="567"/>
+      <point x="304" y="567" type="curve" smooth="yes"/>
+    </contour>
+    <component base="e" xOffset="4" yxScale="0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:46:44 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>edieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="1">
+  <advance width="600"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="482" y="675"/>
+      <point x="506" y="699"/>
+      <point x="506" y="729" type="curve" smooth="yes"/>
+      <point x="506" y="758"/>
+      <point x="482" y="783"/>
+      <point x="452" y="783" type="curve" smooth="yes"/>
+      <point x="422" y="783"/>
+      <point x="399" y="758"/>
+      <point x="399" y="729" type="curve" smooth="yes"/>
+      <point x="399" y="699"/>
+      <point x="422" y="675"/>
+      <point x="452" y="675" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="273" y="675"/>
+      <point x="296" y="699"/>
+      <point x="296" y="729" type="curve" smooth="yes"/>
+      <point x="296" y="758"/>
+      <point x="273" y="783"/>
+      <point x="242" y="783" type="curve" smooth="yes"/>
+      <point x="213" y="783"/>
+      <point x="190" y="758"/>
+      <point x="190" y="729" type="curve" smooth="yes"/>
+      <point x="190" y="699"/>
+      <point x="213" y="675"/>
+      <point x="242" y="675" type="curve" smooth="yes"/>
+    </contour>
+    <component base="Y" yxScale="0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:53:36 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ydieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

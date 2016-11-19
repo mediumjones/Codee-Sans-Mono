@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="1">
+  <advance width="600"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="101" y="84" type="line"/>
+      <point x="101" y="84"/>
+      <point x="196" y="59"/>
+      <point x="269" y="59" type="curve" smooth="yes"/>
+      <point x="396" y="59"/>
+      <point x="417" y="134"/>
+      <point x="417" y="229" type="curve" smooth="yes"/>
+      <point x="417" y="352"/>
+      <point x="382" y="413"/>
+      <point x="311" y="413" type="curve" smooth="yes"/>
+      <point x="215" y="413"/>
+      <point x="158" y="301"/>
+      <point x="158" y="301" type="curve"/>
+      <point x="156" y="361" type="line"/>
+      <point x="156" y="361"/>
+      <point x="160" y="488"/>
+      <point x="322" y="488" type="curve" smooth="yes"/>
+      <point x="430" y="488"/>
+      <point x="499" y="433"/>
+      <point x="499" y="232" type="curve" smooth="yes"/>
+      <point x="499" y="92"/>
+      <point x="471" y="-6"/>
+      <point x="273" y="-6" type="curve" smooth="yes"/>
+      <point x="184" y="-6"/>
+      <point x="101" y="13"/>
+      <point x="101" y="13" type="curve"/>
+    </contour>
+    <contour>
+      <point x="101" y="675" type="line"/>
+      <point x="184" y="675" type="line"/>
+      <point x="184" y="13" type="line"/>
+      <point x="101" y="13" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:59:37 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>b</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.37</real>
+        <real>0.673</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

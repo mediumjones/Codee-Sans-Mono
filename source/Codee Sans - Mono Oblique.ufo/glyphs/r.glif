@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="600"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="181" y="0" type="line"/>
+      <point x="266" y="479" type="line"/>
+      <point x="183" y="479" type="line"/>
+      <point x="98" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="360"/>
+      <point x="340" y="413"/>
+      <point x="402" y="413" type="curve" smooth="yes"/>
+      <point x="463" y="413"/>
+      <point x="474" y="362"/>
+      <point x="463" y="300" type="curve"/>
+      <point x="547" y="300" type="line"/>
+      <point x="569" y="407"/>
+      <point x="535" y="488"/>
+      <point x="428" y="488" type="curve" smooth="yes"/>
+      <point x="337" y="488"/>
+      <point x="275" y="430"/>
+      <point x="217" y="366" type="curve"/>
+      <point x="205" y="295" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:44:24 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>549</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.37</real>
+        <real>0.673</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

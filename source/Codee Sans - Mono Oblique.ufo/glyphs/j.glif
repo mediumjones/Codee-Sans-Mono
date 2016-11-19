@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="1">
+  <advance width="600"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="318" y="-206"/>
+      <point x="387" y="-164"/>
+      <point x="418" y="12" type="curve" smooth="yes"/>
+      <point x="431" y="89"/>
+      <point x="500" y="479"/>
+      <point x="500" y="479" type="curve"/>
+      <point x="418" y="479" type="line"/>
+      <point x="339" y="32" type="line" smooth="yes"/>
+      <point x="315" y="-106"/>
+      <point x="286" y="-131"/>
+      <point x="185" y="-131" type="curve"/>
+      <point x="118" y="-131"/>
+      <point x="63" y="-109"/>
+      <point x="63" y="-109" type="curve"/>
+      <point x="50" y="-186" type="line"/>
+      <point x="50" y="-186"/>
+      <point x="115" y="-206"/>
+      <point x="184" y="-206" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="484" y="411" type="line"/>
+      <point x="496" y="479" type="line"/>
+      <point x="238" y="479" type="line"/>
+      <point x="226" y="411" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="612"/>
+      <point x="535" y="640"/>
+      <point x="541" y="676" type="curve" smooth="yes"/>
+      <point x="548" y="712"/>
+      <point x="525" y="740"/>
+      <point x="490" y="740" type="curve" smooth="yes"/>
+      <point x="453" y="740"/>
+      <point x="420" y="712"/>
+      <point x="413" y="676" type="curve" smooth="yes"/>
+      <point x="407" y="640"/>
+      <point x="430" y="612"/>
+      <point x="467" y="612" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:44:24 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>473</integer>
+          <key>y</key>
+          <integer>476</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>-25</integer>
+          <key>y</key>
+          <integer>-100</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>j</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.37</real>
+        <real>0.673</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

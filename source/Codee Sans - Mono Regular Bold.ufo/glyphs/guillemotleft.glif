@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="600"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="300" y="405" type="line"/>
+      <point x="300" y="318" type="line"/>
+      <point x="215" y="241" type="line"/>
+      <point x="300" y="164" type="line"/>
+      <point x="300" y="80" type="line"/>
+      <point x="161" y="199" type="line"/>
+      <point x="161" y="279" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="405" type="line"/>
+      <point x="439" y="318" type="line"/>
+      <point x="354" y="241" type="line"/>
+      <point x="439" y="164" type="line"/>
+      <point x="439" y="80" type="line"/>
+      <point x="300" y="199" type="line"/>
+      <point x="300" y="279" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-06 18:59:38 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guillemotleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
