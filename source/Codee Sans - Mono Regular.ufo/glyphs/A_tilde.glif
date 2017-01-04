@@ -4,9 +4,6 @@
   <unicode hex="00C3"/>
   <outline>
     <contour>
-      <point x="27" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="121" y="728"/>
       <point x="158" y="798"/>
       <point x="226" y="798" type="curve" smooth="yes"/>
@@ -16,9 +13,7 @@
       <point x="402" y="745"/>
       <point x="425" y="791"/>
       <point x="425" y="791" type="curve"/>
-      <point x="425" y="791"/>
-      <point x="466" y="752"/>
-      <point x="466" y="752" type="curve"/>
+      <point x="466" y="752" type="line"/>
       <point x="466" y="752"/>
       <point x="421" y="684"/>
       <point x="362" y="684" type="curve" smooth="yes"/>
@@ -34,22 +29,29 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-08 18:48:30 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>Atilde</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>550</integer>
         </dict>

@@ -15,7 +15,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/12/14 19:49:07</string>
+	<string>2016/09/08 11:42:08</string>
 	<key>openTypeNameDesigner</key>
 	<string>Cody Jones</string>
 	<key>openTypeNameDesignerURL</key>
@@ -35,19 +35,21 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFontName</key>
+	<string>CodeeSansMono-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string></string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>800</integer>
 	<key>versionMajor</key>
-	<integer>0</integer>
-	<key>versionMinor</key>
 	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>479</integer>
 </dict>
